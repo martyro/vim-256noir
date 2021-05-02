@@ -49,7 +49,7 @@ if has("gui_running") || &t_Co == 256
     hi TermCursor cterm=reverse ctermfg=NONE ctermbg=NONE gui=reverse guifg=NONE guibg=NONE
 else
     hi Normal cterm=NONE ctermfg=Gray ctermbg=Black
-    hi Keyword cterm=NONE ctermfg=White ctermbg=Black
+    hi Keyword cterm=NONE ctermfg=Red ctermbg=Black
     hi Constant cterm=NONE ctermfg=Gray ctermbg=Black
     hi String cterm=NONE ctermfg=Gray ctermbg=Black
     hi Comment cterm=NONE ctermfg=DarkGray ctermbg=Black
