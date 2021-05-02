@@ -30,7 +30,7 @@ let g:colors_name = "256_noir"
 # Group       ctermfg ctermbg  cterm
 COLORS = """
 Normal        250     16       NONE
-Keyword       255     16       NONE
+Keyword       196     16       NONE
 Constant      252     16       NONE
 String        245     16       NONE
 Comment       240     16       NONE
