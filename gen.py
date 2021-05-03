@@ -49,7 +49,7 @@ WildMenu      240     255      NONE
 Pmenu         255     240      NONE
 PmenuThumb    232     240      NONE
 SpecialKey    16      255      NONE
-MatchParen    16      240      NONE
+MatchParen    250     16       NONE
 CursorLine    NONE    233      NONE
 StatusLine    245     16       bold,reverse
 StatusLineNC  236     16       reverse
